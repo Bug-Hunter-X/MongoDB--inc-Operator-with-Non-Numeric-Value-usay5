@@ -1,0 +1,1 @@
+This repository demonstrates a common error when using MongoDB's $inc operator.  The example shows how providing a non-numeric value to $inc leads to an error.  The solution shows the correct way to use $inc.
